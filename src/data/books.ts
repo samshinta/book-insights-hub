@@ -68,7 +68,7 @@ Com exemplos práticos, o autor ensina como empilhar hábitos e como reduzir a f
     id: "o-poder-do-habito",
     title: "O Poder do Hábito",
     author: "Charles Duhigg",
-    cover: "/books/o-poder-do-habito.jpg",
+    cover: "https://imgur.com/9vfD9CE",
     badge: "Mais de 1 milhão de exemplares vendidos",
     shortDescription: "Por que fazemos o que fazemos na vida e nos negócios.",
     worthIt: `O Poder do Hábito é uma obra essencial para quem deseja compreender os mecanismos por trás de nossos comportamentos automáticos. Charles Duhigg, jornalista investigativo do New York Times, mergulha na ciência dos hábitos com uma narrativa envolvente que combina pesquisa rigorosa e histórias fascinantes.
@@ -102,7 +102,7 @@ A segunda parte examina como empresas como a Target e o Starbucks utilizam a ci�
     id: "mindset",
     title: "Mindset: A Nova Psicologia do Sucesso",
     author: "Carol S. Dweck",
-    cover: "/books/mindset.jpg",
+    cover: "https://imgur.com/bTE9rIJ.jpg",
     badge: "Clássico da Psicologia",
     shortDescription: "Descubra como a mentalidade certa pode transformar sua vida.",
     worthIt: `Mindset é uma leitura transformadora que muda a forma como você enxerga desafios, fracassos e o próprio potencial. Carol Dweck, professora de Stanford e uma das maiores referências em psicologia motivacional, apresenta décadas de pesquisa de forma acessível e prática.
