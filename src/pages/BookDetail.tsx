@@ -4,6 +4,7 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import QuoteCard from "@/components/QuoteCard";
 import AmazonButton from "@/components/AmazonButton";
+import SEO from "@/components/SEO";
 import { getBookById } from "@/data/books";
 
 const BookDetail = () => {
@@ -13,6 +14,10 @@ const BookDetail = () => {
   if (!book) {
     return (
       <div className="min-h-screen flex flex-col">
+        <SEO
+          title="Livro não encontrado | Livros que Transformam"
+          description="O livro que você procura não foi encontrado."
+        />
         <Header />
         <main className="flex-1 flex items-center justify-center">
           <div className="text-center">
@@ -27,8 +32,22 @@ const BookDetail = () => {
     );
   }
 
+  // SEO otimizado para long tail keywords
+  const seoTitle = `${book.title} vale a pena? Resumo + Melhores Frases | 2024`;
+  const seoDescription = `${book.title} vale a pena comprar? Confira nossa análise completa, resumo detalhado e as melhores frases do livro de ${book.author}. Descubra se esse livro é para você!`;
+  const seoKeywords = `${book.title} vale a pena, ${book.title} resumo, ${book.title} melhores frases, ${book.title} análise, ${book.title} resenha, livro ${book.title}, ${book.author} livros, comprar ${book.title}`;
+
   return (
     <div className="min-h-screen flex flex-col">
+      <SEO
+        title={seoTitle}
+        description={seoDescription}
+        keywords={seoKeywords}
+        canonicalUrl={`/livro/${book.id}`}
+        ogType="article"
+        author={book.author}
+        bookTitle={book.title}
+      />
       <Header />
       
       <main className="flex-1">
