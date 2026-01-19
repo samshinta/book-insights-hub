@@ -20,7 +20,7 @@ export const books: Book[] = [
     id: "habitos-atomicos",
     title: "Hábitos Atômicos",
     author: "James Clear",
-    cover: "/books/habitos-atomicos.jpg",
+    cover: "https://i.imgur.com/yDAQkM4.jpg",
     badge: "Best-seller do New York Times",
     shortDescription: "Transforme sua vida com pequenas mudanças que geram resultados extraordinários.",
     worthIt: `Vale a pena comprar Hábitos Atômicos? Sem dúvida. James Clear entrega um manual prático fundamentado em ciência comportamental que foge do clichê da motivação vazia. O grande diferencial da obra é o foco em sistemas em vez de metas: o autor demonstra que você não sobe ao nível dos seus objetivos, mas cai ao nível dos seus sistemas.
