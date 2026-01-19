@@ -1,12 +1,29 @@
-// Update this page (the content is just a fallback if you fail to update the page)
+import Header from "@/components/Header";
+import Hero from "@/components/Hero";
+import BookCard from "@/components/BookCard";
+import Footer from "@/components/Footer";
+import { books } from "@/data/books";
 
 const Index = () => {
   return (
-    <div className="flex min-h-screen items-center justify-center bg-background">
-      <div className="text-center">
-        <h1 className="mb-4 text-4xl font-bold">Welcome to Your Blank App</h1>
-        <p className="text-xl text-muted-foreground">Start building your amazing project here!</p>
-      </div>
+    <div className="min-h-screen flex flex-col">
+      <Header />
+      
+      <main className="flex-1">
+        <Hero />
+        
+        <section className="py-8 md:py-12">
+          <div className="container">
+            <div className="grid gap-8">
+              {books.map((book, index) => (
+                <BookCard key={book.id} book={book} index={index} />
+              ))}
+            </div>
+          </div>
+        </section>
+      </main>
+      
+      <Footer />
     </div>
   );
 };
