@@ -15,7 +15,7 @@ const BookDetail = () => {
     return (
       <div className="min-h-screen flex flex-col">
         <SEO
-          title="Livro não encontrado | Livros que Transformam"
+          title="Livro não encontrado | MelhoresPrecos"
           description="O livro que você procura não foi encontrado."
         />
         <Header />
