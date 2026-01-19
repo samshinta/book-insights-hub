@@ -62,7 +62,7 @@ Com exemplos práticos, o autor ensina como empilhar hábitos e como reduzir a f
         book: "Hábitos Atômicos",
       },
     ],
-    amazonLink: "https://www.amazon.com.br/dp/8550807567?tag=seuafiliado-20",
+    amazonLink: "https://www.amazon.com.br/dp/8550807567?tag=samshinta-20",
   },
   {
     id: "o-poder-do-habito",
@@ -96,7 +96,7 @@ A segunda parte examina como empresas como a Target e o Starbucks utilizam a ci�
         book: "O Poder do Hábito",
       },
     ],
-    amazonLink: "https://www.amazon.com.br/dp/8539004119?tag=seuafiliado-20",
+    amazonLink: "https://www.amazon.com.br/dp/8539004119?tag=samshinta-20",
   },
   {
     id: "mindset",
@@ -123,7 +123,7 @@ A autora demonstra como essas mentalidades afetam todas as áreas da vida — re
         book: "Mindset",
       },
     ],
-    amazonLink: "https://www.amazon.com.br/dp/8547000240?tag=seuafiliado-20",
+    amazonLink: "https://www.amazon.com.br/dp/8547000240?tag=samshinta-20",
   },
 ];
 
