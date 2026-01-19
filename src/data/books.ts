@@ -68,7 +68,7 @@ Com exemplos práticos, o autor ensina como empilhar hábitos e como reduzir a f
     id: "o-poder-do-habito",
     title: "O Poder do Hábito",
     author: "Charles Duhigg",
-    cover: "https://imgur.com/9vfD9CE",
+    cover: "https://imgur.com/9vfD9CE.jpg",
     badge: "Mais de 1 milhão de exemplares vendidos",
     shortDescription: "Por que fazemos o que fazemos na vida e nos negócios.",
     worthIt: `O Poder do Hábito é uma obra essencial para quem deseja compreender os mecanismos por trás de nossos comportamentos automáticos. Charles Duhigg, jornalista investigativo do New York Times, mergulha na ciência dos hábitos com uma narrativa envolvente que combina pesquisa rigorosa e histórias fascinantes.
