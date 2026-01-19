@@ -9,7 +9,7 @@ const Footer = () => {
           <Link to="/" className="flex items-center gap-2">
             <BookOpen className="h-5 w-5 text-primary" />
             <span className="font-serif text-lg font-medium text-foreground">
-              LivrosQueTransformam
+              MelhoresPrecos
             </span>
           </Link>
           
@@ -21,7 +21,7 @@ const Footer = () => {
         
         <div className="mt-8 pt-8 border-t border-border/50 text-center">
           <p className="text-sm text-muted-foreground">
-            © {new Date().getFullYear()} LivrosQueTransformam. Todos os direitos reservados.
+            © {new Date().getFullYear()} MelhoresPrecos. Todos os direitos reservados.
           </p>
         </div>
       </div>

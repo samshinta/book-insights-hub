@@ -21,7 +21,7 @@ const SEO = ({
   author,
   bookTitle,
 }: SEOProps) => {
-  const siteUrl = "https://livrosquetransformam.com"; // Altere para seu domínio
+  const siteUrl = "https://melhoresprecos.shop";
   const fullUrl = canonicalUrl ? `${siteUrl}${canonicalUrl}` : siteUrl;
 
   // Schema.org structured data for book review
@@ -40,7 +40,7 @@ const SEO = ({
         reviewBody: description,
         author: {
           "@type": "Organization",
-          name: "Livros que Transformam",
+          name: "MelhoresPrecos",
         },
       }
     : null;
@@ -63,7 +63,7 @@ const SEO = ({
       <meta property="og:description" content={description} />
       <meta property="og:image" content={`${siteUrl}${ogImage}`} />
       <meta property="og:locale" content="pt_BR" />
-      <meta property="og:site_name" content="Livros que Transformam" />
+      <meta property="og:site_name" content="MelhoresPrecos" />
       
       {/* Twitter */}
       <meta name="twitter:card" content="summary_large_image" />

@@ -8,7 +8,7 @@ const Header = () => {
         <Link to="/" className="flex items-center gap-2 transition-opacity hover:opacity-80">
           <BookOpen className="h-6 w-6 text-primary" />
           <span className="font-serif text-xl font-semibold text-foreground">
-            LivrosQueTransformam
+            MelhoresPrecos
           </span>
         </Link>
         
