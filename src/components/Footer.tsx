@@ -19,9 +19,25 @@ const Footer = () => {
           </p>
         </div>
         
-        <div className="mt-8 pt-8 border-t border-border/50 text-center">
+        <div className="mt-8 pt-8 border-t border-border/50 text-center space-y-4">
           <p className="text-sm text-muted-foreground">
             © {new Date().getFullYear()} MelhoresPrecos. Todos os direitos reservados.
+          </p>
+          <div className="flex flex-wrap justify-center gap-4 text-sm">
+            <Link to="/politica-privacidade" className="text-muted-foreground hover:text-primary transition-colors">
+              Política de Privacidade
+            </Link>
+            <span className="text-muted-foreground">•</span>
+            <Link to="/termos-uso" className="text-muted-foreground hover:text-primary transition-colors">
+              Termos de Uso
+            </Link>
+            <span className="text-muted-foreground">•</span>
+            <Link to="/contato" className="text-muted-foreground hover:text-primary transition-colors">
+              Contato
+            </Link>
+          </div>
+          <p className="text-sm text-muted-foreground">
+            Email: contato@melhoresprecos.shop
           </p>
         </div>
       </div>
