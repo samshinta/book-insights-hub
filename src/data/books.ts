@@ -125,6 +125,39 @@ A autora demonstra como essas mentalidades afetam todas as áreas da vida — re
     ],
     amazonLink: "https://www.amazon.com.br/dp/8547000240?tag=samshinta-20",
   },
+  {
+    id: "comunicacao-nao-violenta",
+    title: "Comunicação Não-Violenta",
+    author: "Marshall B. Rosenberg",
+    cover: "https://imgur.com/6R9wX1J.jpg",
+    badge: "Mais de 5 milhões de exemplares vendidos no mundo",
+    shortDescription: "Um método prático para melhorar relacionamentos, resolver conflitos e se comunicar com empatia.",
+    worthIt: `Comunicação Não-Violenta é um livro fundamental para quem deseja se expressar com clareza sem gerar conflitos desnecessários. Marshall Rosenberg apresenta um método simples e aplicável para melhorar conversas difíceis, fortalecer relações pessoais e profissionais e lidar melhor com emoções intensas.
+
+O grande mérito da obra está na forma prática como o autor transforma conceitos de empatia e escuta ativa em ferramentas concretas. É uma leitura especialmente valiosa para líderes, educadores, pais, profissionais de saúde e qualquer pessoa que queira se comunicar de forma mais consciente e respeitosa.`,
+    summary: `No livro Comunicação Não-Violenta, Marshall Rosenberg propõe um modelo baseado em quatro pilares: observação, sentimento, necessidade e pedido. A ideia central é separar fatos de julgamentos e aprender a expressar emoções e necessidades sem acusar ou atacar o outro.
+
+Ao longo da obra, o autor utiliza exemplos do cotidiano, situações de conflito familiar, ambientes de trabalho e até contextos sociais mais amplos para mostrar como a comunicação pode se tornar uma ponte em vez de um obstáculo. O livro também aborda a importância da escuta empática como ferramenta para criar conexões genuínas e resolver impasses de forma construtiva.`,
+    quotes: [
+      {
+        text: "As palavras podem ser janelas ou muros.",
+        author: "Marshall B. Rosenberg",
+        book: "Comunicação Não-Violenta",
+      },
+      {
+        text: "O que os outros dizem e fazem pode ser o estímulo, mas nunca a causa de nossos sentimentos.",
+        author: "Marshall B. Rosenberg",
+        book: "Comunicação Não-Violenta",
+      },
+      {
+        text: "Quando ouvimos com empatia, damos ao outro espaço para se transformar.",
+        author: "Marshall B. Rosenberg",
+        book: "Comunicação Não-Violenta",
+      },
+    ],
+    amazonLink: "https://www.amazon.com.br/dp/8571838265?tag=samshinta-20",
+  },
+
 ];
 
 export const getBookById = (id: string): Book | undefined => {
