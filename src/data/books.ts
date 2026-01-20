@@ -157,7 +157,55 @@ Ao longo da obra, o autor utiliza exemplos do cotidiano, situações de conflito
     ],
     amazonLink: "https://www.amazon.com.br/dp/8571838265?tag=samshinta-20",
   },
+  {
+    id: "cafe-com-deus-pai",
+    title: "Café com Deus Pai Vol. 6 - 2026",
+    author: "Júnior Rostirola",
+    cover: "https://i.imgur.com/mh1bIQ4.jpg",
+    shortDescription: "Resenha de \"Café com Deus Pai Vol. 6 - 2026\": descubra se vale a pena ler este livro e como ele pode impactar sua vida na prática.",
+    worthIt: `**Sim, 'Café com Deus Pai Vol. 6 - 2026' vale cada centavo do investimento, especialmente se você busca uma rotina diária de inspiração e renovação espiritual.**
 
+Esse devocional diário, escrito por Júnior Rostirola – pastor que superou um passado de violência e pobreza para fundar uma igreja com 7 mil fiéis –, oferece porções diárias de paz e renovação que transformam o dia a dia. Não é só um livro religioso, mas uma ferramenta prática para quem lida com traumas, depressão ou falta de foco, ajudando a curar feridas emocionais e reacender sonhos. Com mais de 190 mil cópias vendidas em edições anteriores, ele prova seu impacto real na vida de evangélicos, católicos e até espíritas.
+
+Ideal para adultos, jovens e famílias que querem uma conexão autêntica com Deus sem complicações teológicas. Os benefícios práticos incluem motivação diária via versículos, frases impactantes e mensagens curtas que cabem em 5 minutos do seu café da manhã, promovendo clareza mental, superação de inseguranças e um senso de propósito – tudo baseado na jornada pessoal de Rostirola, que saiu do inferno familiar para o sucesso.
+
+Se você está perdido em meio ao caos da vida moderna, esse volume de 2026 é o empurrão que faltava para 365 dias de crescimento espiritual prático e acessível.`,
+    summary: `'Café com Deus Pai Vol. 6 - 2026' é um devocional diário que convida você a tomar um 'café' com Deus Pai todos os dias do ano, com mensagens curtas e poderosas para nutrir a alma.
+
+Organizado por temas mensais, cada dia traz um versículo bíblico, uma frase inspiradora e uma reflexão desenvolvida por Júnior Rostirola, inspirada em sua própria superação de abusos familiares e depressão. A abordagem é simples e conversacional, como uma charla íntima, sem jargões teológicos – perfeita para leitores de todas as denominações que buscam conexão espiritual prática.
+
+O autor estrutura o livro como 'pão diário', remetendo ao maná bíblico, com insights escritos em madrugadas e viagens, sempre guiados por revelações divinas. Ele compartilha lições de cura emocional, paternidade divina e propósito, indo além de autoajuda para uma transformação real baseada na fé.
+
+Ao final, você aprende a enfrentar dores do passado, combater o vazio interior e construir uma rotina de gratidão e força, saindo mais resiliente e alinhado com seus sonhos – tudo em porções diárias que cabem na agenda lotada.`,
+    quotes: [
+      {
+        text: "Deus me fez um bom pai, algo que nunca tive, e escritor de um livro que leva Deus às pessoas.",
+        author: "Júnior Rostirola",
+        book: "Café com Deus Pai Vol. 6 - 2026",
+      },
+      {
+        text: "Minha intenção é curar uma sociedade doente, cheia de pessoas sem sonhos e perdidas dentro de si mesmas.",
+        author: "Júnior Rostirola",
+        book: "Café com Deus Pai Vol. 6 - 2026",
+      },
+      {
+        text: "É preciso cuidar do corpo e da alma para uma vida plena e renovada.",
+        author: "Júnior Rostirola",
+        book: "Café com Deus Pai Vol. 6 - 2026",
+      },
+      {
+        text: "Transforme suas adversidades em combustível para mudanças, como Deus fez comigo.",
+        author: "Júnior Rostirola",
+        book: "Café com Deus Pai Vol. 6 - 2026",
+      },
+      {
+        text: "Reserve um tempo diário para conversar com Deus e receba porções de paz todos os dias.",
+        author: "Júnior Rostirola",
+        book: "Café com Deus Pai Vol. 6 - 2026",
+      },
+    ],
+    amazonLink: "https://amzn.to/49ccQDM",
+  },
 ];
 
 export const getBookById = (id: string): Book | undefined => {
