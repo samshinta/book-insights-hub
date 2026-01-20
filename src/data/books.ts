@@ -129,7 +129,7 @@ A autora demonstra como essas mentalidades afetam todas as áreas da vida — re
     id: "comunicacao-nao-violenta",
     title: "Comunicação Não-Violenta",
     author: "Marshall B. Rosenberg",
-    cover: "https://imgur.com/6R9wX1J.jpg",
+    cover: "https://i.imgur.com/Ewdoy7l.jpg",
     badge: "Mais de 5 milhões de exemplares vendidos no mundo",
     shortDescription: "Um método prático para melhorar relacionamentos, resolver conflitos e se comunicar com empatia.",
     worthIt: `Comunicação Não-Violenta é um livro fundamental para quem deseja se expressar com clareza sem gerar conflitos desnecessários. Marshall Rosenberg apresenta um método simples e aplicável para melhorar conversas difíceis, fortalecer relações pessoais e profissionais e lidar melhor com emoções intensas.
