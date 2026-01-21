@@ -437,6 +437,38 @@ A estrutura do livro combina histórias de personalidades conhecidas com reflex�
     ],
     amazonLink: "https://amzn.to/450EBy2",
   },
+    {
+    id: "mulheres-que-correm-com-os-lobos",
+    title: "Mulheres que Correm com os Lobos",
+    author: "Clarissa Pinkola Estés",
+    cover: "https://i.imgur.com/placeholder.jpg",
+    badge: "Clássico da psicologia feminina",
+    shortDescription: "Um mergulho profundo na psique feminina por meio de mitos, contos e arquétipos.",
+    worthIt: `Vale a pena ler Mulheres que Correm com os Lobos? Sim, especialmente se você busca autoconhecimento em um nível mais simbólico e psicológico. Clarissa Pinkola Estés propõe uma reconexão com a natureza instintiva da mulher, muitas vezes reprimida por padrões culturais e sociais ao longo dos séculos.
+
+A leitura não é leve nem linear. É um livro denso, reflexivo e, em vários momentos, confrontador. Justamente por isso, gera impacto duradouro. Cada capítulo funciona como um convite à reflexão profunda sobre identidade, criatividade, limites e força interior.
+
+É uma obra indicada para quem está disposto a ler sem pressa, absorvendo os significados por trás das histórias e permitindo que elas dialoguem com experiências pessoais.`,
+    summary: `Em Mulheres que Correm com os Lobos, Clarissa Pinkola Estés utiliza contos de fadas, mitos e histórias ancestrais para explorar a psique feminina sob a ótica da psicologia analítica junguiana. A autora apresenta o arquétipo da Mulher Selvagem como a essência instintiva, criativa e intuitiva que habita todas as mulheres.
+
+Ao longo do livro, cada narrativa é destrinchada em camadas simbólicas que abordam temas como perda da identidade, repressão emocional, ciclos de morte e renascimento, intuição e força interior. Estés argumenta que a desconexão dessa natureza instintiva gera sofrimento psíquico e sensação de vazio.
+
+A obra funciona tanto como análise psicológica quanto como guia de reconexão interior, oferecendo uma leitura transformadora para quem busca compreender mais profundamente a própria essência.`,
+    quotes: [
+      {
+        text: "Quando as mulheres recuperam sua natureza instintiva, tornam-se naturalmente criativas, generosas e protetoras.",
+        author: "Clarissa Pinkola Estés",
+        book: "Mulheres que Correm com os Lobos",
+      },
+      {
+        text: "A Mulher Selvagem carrega os remédios para tudo o que foi perdido.",
+        author: "Clarissa Pinkola Estés",
+        book: "Mulheres que Correm com os Lobos",
+      },
+    ],
+    amazonLink: "https://www.amazon.com.br/dp/8532529783?tag=samshinta-20",
+  },
+
 ];
 
 export const getBookById = (id: string): Book | undefined => {
