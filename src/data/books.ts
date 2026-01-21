@@ -441,7 +441,7 @@ A estrutura do livro combina histórias de personalidades conhecidas com reflex�
     id: "mulheres-que-correm-com-os-lobos",
     title: "Mulheres que Correm com os Lobos",
     author: "Clarissa Pinkola Estés",
-    cover: "https://i.imgur.com/placeholder.jpg",
+    cover: "https://i.imgur.com/AxlerOH.jpg",
     badge: "Clássico da psicologia feminina",
     shortDescription: "Um mergulho profundo na psique feminina por meio de mitos, contos e arquétipos.",
     worthIt: `Vale a pena ler Mulheres que Correm com os Lobos? Sim, especialmente se você busca autoconhecimento em um nível mais simbólico e psicológico. Clarissa Pinkola Estés propõe uma reconexão com a natureza instintiva da mulher, muitas vezes reprimida por padrões culturais e sociais ao longo dos séculos.
@@ -466,7 +466,100 @@ A obra funciona tanto como análise psicológica quanto como guia de reconexão 
         book: "Mulheres que Correm com os Lobos",
       },
     ],
-    amazonLink: "https://www.amazon.com.br/dp/8532529783?tag=samshinta-20",
+    amazonLink: "https://amzn.to/49o9DkH",
+  },
+  {
+    id: "1984",
+    title: "1984",
+    author: "George Orwell",
+    cover: "https://i.imgur.com/YckUbHk.jpg",
+    badge: "Clássico da literatura distópica",
+    shortDescription: "Um retrato sombrio de um regime totalitário baseado em vigilância extrema, manipulação da verdade e controle social.",
+    worthIt: `Vale a pena ler 1984? Sim, especialmente em um mundo cada vez mais digital e monitorado. George Orwell constrói uma narrativa impactante que vai além da ficção, funcionando como um alerta atemporal sobre os perigos do autoritarismo, da censura e da perda da liberdade individual.
+
+O livro provoca desconforto justamente por sua lucidez. A ideia de vigilância constante, controle da informação e reescrita da história faz com que o leitor questione não apenas regimes políticos, mas também o papel da mídia, da tecnologia e do poder na sociedade moderna.
+
+É uma leitura essencial para quem busca pensamento crítico, consciência política e compreensão profunda dos mecanismos de dominação.`,
+    summary: `Em 1984, George Orwell apresenta um mundo governado pelo Partido, liderado pela figura onipresente do Grande Irmão. A sociedade é controlada por meio da vigilância constante, da manipulação da linguagem e da alteração contínua dos registros históricos, garantindo que a versão oficial da realidade nunca seja contestada.
+
+O protagonista, Winston Smith, trabalha justamente alterando documentos do passado para alinhar a história às narrativas do Partido. Aos poucos, ele passa a questionar o sistema, buscando preservar sua individualidade e sua capacidade de pensar livremente — um ato considerado criminoso.
+
+A obra explora temas como totalitarismo, vigilância em massa, controle ideológico, censura e a fragilidade da verdade. Mais do que uma distopia, 1984 é um alerta poderoso sobre até onde o poder pode ir quando não encontra limites.`,
+    quotes: [
+      {
+        text: "O Grande Irmão está de olho em você.",
+        author: "George Orwell",
+        book: "1984",
+      },
+      {
+        text: "Quem controla o passado controla o futuro. Quem controla o presente controla o passado.",
+        author: "George Orwell",
+        book: "1984",
+      },
+    ],
+    amazonLink: "https://amzn.to/3N8jhkc",
+  },
+  {
+    id: "a-revolucao-dos-bichos",
+    title: "A Revolução dos Bichos",
+    author: "George Orwell",
+    cover: "https://i.imgur.com/BgKF1Eb.jpg",
+    badge: "Clássico da sátira política",
+    shortDescription: "Uma fábula poderosa que expõe como ideais revolucionários podem ser corrompidos pelo abuso de poder.",
+    worthIt: `Vale a pena ler A Revolução dos Bichos? Sim, porque é uma leitura curta, direta e extremamente impactante. George Orwell utiliza uma linguagem simples e personagens animais para revelar mecanismos complexos de manipulação política, propaganda e autoritarismo.
+
+O livro é didático sem ser raso. Em poucas páginas, o autor mostra como líderes podem distorcer ideais de igualdade para concentrar poder, explorando o medo, a ignorância e a repetição de discursos como ferramentas de controle.
+
+É uma obra essencial para quem busca compreender política, história e comportamento humano, além de servir como alerta permanente sobre os riscos do poder sem limites.`,
+    summary: `Em A Revolução dos Bichos, os animais de uma fazenda se rebelam contra seus donos humanos em busca de liberdade e igualdade. Inspirados por ideais revolucionários, eles constroem um novo sistema onde todos seriam iguais e trabalhariam para o bem comum.
+
+Com o passar do tempo, porém, os porcos assumem o controle e passam a modificar as regras em benefício próprio. A promessa de igualdade é gradualmente substituída por um regime autoritário, sustentado por propaganda, medo e distorção da verdade.
+
+A obra funciona como uma sátira direta à corrupção do poder e às traições ideológicas, mostrando como revoluções podem repetir os mesmos abusos que pretendiam eliminar.`,
+    quotes: [
+      {
+        text: "Todos os animais são iguais, mas alguns animais são mais iguais que os outros.",
+        author: "George Orwell",
+        book: "A Revolução dos Bichos",
+      },
+      {
+        text: "A verdadeira felicidade está em trabalhar duro e viver frugalmente.",
+        author: "George Orwell",
+        book: "A Revolução dos Bichos",
+      },
+    ],
+    amazonLink: "https://amzn.to/4srM8Ad",
+  },
+  {
+    id: "o-pequeno-principe",
+    title: "O Pequeno Príncipe",
+    author: "Antoine de Saint-Exupéry",
+    cover: "https://i.imgur.com/Y7Xv4j6.jpg",
+    badge: "Clássico da literatura mundial",
+    shortDescription: "Uma fábula poética sobre amizade, amor, responsabilidade e o essencial invisível aos olhos.",
+    worthIt: `Vale a pena ler O Pequeno Príncipe? Sim, em qualquer idade. Antoine de Saint-Exupéry constrói uma narrativa simples na forma, mas profunda no conteúdo, capaz de tocar leitores jovens e adultos com reflexões atemporais sobre a vida.
+
+A obra convida à desaceleração e ao olhar sensível. Por meio de diálogos simbólicos, o autor questiona valores como materialismo, poder e vaidade, contrapondo-os à pureza das relações humanas e à importância dos vínculos afetivos.
+
+É um livro curto, mas de impacto duradouro, ideal para releituras ao longo da vida, pois seu significado amadurece junto com o leitor.`,
+    summary: `Em O Pequeno Príncipe, um piloto perdido no deserto do Saara conhece um pequeno viajante vindo de outro planeta. Ao longo da convivência, o menino compartilha histórias de sua jornada por diferentes asteroides, cada um habitado por personagens que representam comportamentos e vícios do mundo adulto.
+
+Por meio dessas visitas, o livro aborda temas como solidão, amizade, amor, responsabilidade e o sentido da existência. A relação do Pequeno Príncipe com a rosa revela a importância do cuidado e do compromisso emocional.
+
+A narrativa combina fantasia e filosofia de forma delicada, transmitindo a mensagem de que o essencial não pode ser visto com os olhos, apenas sentido com o coração.`,
+    quotes: [
+      {
+        text: "O essencial é invisível aos olhos.",
+        author: "Antoine de Saint-Exupéry",
+        book: "O Pequeno Príncipe",
+      },
+      {
+        text: "Tu te tornas eternamente responsável por aquilo que cativas.",
+        author: "Antoine de Saint-Exupéry",
+        book: "O Pequeno Príncipe",
+      },
+    ],
+    amazonLink: "https://amzn.to/3L97v8C",
   },
 
 ];
