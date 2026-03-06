@@ -14,7 +14,9 @@ export interface Book {
   }[];
   amazonLink: string;
 }
-{
+
+export const books: Book[] = [
+  {
     id: "pilha-elgin-aa-2700mah",
     title: "Pilha Recarregável AA 2700mAh Elgin",
     author: "Elgin",
@@ -25,8 +27,6 @@ export interface Book {
     quotes: [],
     amazonLink: "https://amzn.to/4d3pbOe",
   },
-
-export const books: Book[] = [
   {
     id: "habitos-atomicos",
     title: "Hábitos Atômicos",
@@ -448,7 +448,7 @@ A estrutura do livro combina histórias de personalidades conhecidas com reflex�
     ],
     amazonLink: "https://amzn.to/450EBy2",
   },
-    {
+  {
     id: "mulheres-que-correm-com-os-lobos",
     title: "Mulheres que Correm com os Lobos",
     author: "Clarissa Pinkola Estés",
@@ -572,7 +572,6 @@ A narrativa combina fantasia e filosofia de forma delicada, transmitindo a mensa
     ],
     amazonLink: "https://amzn.to/3L97v8C",
   },
-
 ];
 
 export const getBookById = (id: string): Book | undefined => {
