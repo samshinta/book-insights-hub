@@ -1,3 +1,6 @@
+# melhoresprecos
+Worker hospedado no Cloudflare Pages.
+
 # Welcome to your Lovable project
 
 ## Project info
