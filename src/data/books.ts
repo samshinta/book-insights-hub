@@ -20,7 +20,7 @@ export const books: Book[] = [
     id: "pilha-elgin-aa-2700mah",
     title: "Pilha Recarregável AA 2700mAh Elgin",
     author: "Elgin",
-    cover: "https://i.imgur.com/XfeljY5.jpg",
+    cover: "https://imgur.com/loMTZju",
     shortDescription: "Pilha recarregável AA 2700mAh Elgin com 4 unidades. Comum.",
     worthIt: `Pilha recarregável AA 2700mAh Elgin com 4 unidades. Comum.`,
     summary: `Pilha recarregável AA 2700mAh Elgin com 4 unidades. Comum.`,
