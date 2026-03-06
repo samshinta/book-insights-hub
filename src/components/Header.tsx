@@ -17,13 +17,13 @@ const Header = () => {
             to="/" 
             className="text-sm font-medium text-muted-foreground transition-colors hover:text-foreground"
           >
-            Mais Lidos
+            Livros
           </Link>
           <Link 
             to="/" 
             className="text-sm font-medium text-muted-foreground transition-colors hover:text-foreground"
           >
-            Categorias
+            Diversos
           </Link>
           <Link 
             to="/" 
